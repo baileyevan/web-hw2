@@ -4,6 +4,10 @@ body,
     margin: 0;
 }
 
+* {
+    font: 8pt Verdana, 24pt Tahoma;
+}
+
 a {
     text-decoration: none;
     color: inherit;
@@ -223,5 +227,3 @@ body {
     justify-content: center;
     align-items: center;
 }
-
-#movieAnalytics {}
